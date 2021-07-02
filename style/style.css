@@ -60,17 +60,17 @@ header  {
  text-align: right;
 }
 .middle {
- color: #f59300;
+ color: #65BFCD;
  display: flex;
  align-items: center;
  justify-content: space-between;
 }
 .middle button {
  background-color: #fff;
- border: 2px solid #ecf0f1;
+ border: 2px solid #65BFCD;
  border-radius: 50%;
  cursor: pointer;
- color: #f59300;
+ color: #65BFCD;
  font-size: 18px;
  display: flex;
  align-items: center;
@@ -83,8 +83,8 @@ header  {
  transform: rotate(90deg) scale(0.9);
 }
 .middle .rate {
- background-color: #fff;
- border: 2px solid #ecf0f1;
+ background-color: #fff; 
+ border: 2px solid #65BFCD;
  border-radius: 50px;
  font-size: 18px;
  display: flex;
@@ -144,7 +144,7 @@ footer{
 }
 
 .footer-distributed h3 span{
-	color:  #e0ac1c;
+	color:  #65BFCD;
 }
 
 /* Footer links */
@@ -162,7 +162,7 @@ footer{
 }
 
 .footer-distributed .footer-company-name{
-	color:  #8f9296;
+	color:  #65BFCD;
 	font-size: 14px;
 	font-weight: normal;
 	margin: 0;
@@ -189,6 +189,7 @@ footer{
 }
 
 .footer-distributed .footer-center i.fa-envelope{
+	
 	font-size: 17px;
 	line-height: 38px;
 }
@@ -208,7 +209,7 @@ footer{
 }
 
 .footer-distributed .footer-center p a{
-	color:  #e0ac1c;
+	color:  #65BFCD;
 	text-decoration: none;;
 }
 
